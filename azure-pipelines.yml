@@ -1,5 +1,5 @@
 trigger:
-- master
+- main
 
 pool:
   name: Default  # Use your agent pool name
